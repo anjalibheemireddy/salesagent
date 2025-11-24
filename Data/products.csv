@@ -1,0 +1,101 @@
+﻿product_id,product_name,product_type,description,rating,price,price_range,inventory,available
+id01,iPhone 14,phone,"iPhone 14 – 6.1"" OLED display, A15 Bionic chip, 128GB storage, dual 12MP cameras, available in Blue and Midnight.",4,989,900-1000,1,TRUE
+id02,iPhone 15,phone,"iPhone 15 – 6.1"" Super Retina XDR, Dynamic Island, A16 chip, 128GB, USB-C, 48MP main camera.",4.9,909,900-1000,4,TRUE
+id03,iPhone SE,phone,"iPhone SE – Compact 4.7"" Retina display, A15 chip, 64GB, Touch ID, available in Starlight.",4.1,345,300-400,1,TRUE
+id04,Samsung Galaxy S23,phone,"Samsung Galaxy S23 – 6.1"" AMOLED 120Hz, Snapdragon 8 Gen 2, 128GB, 50MP triple camera, Phantom Black.",3.9,676,600-700,5,TRUE
+id05,Samsung A54,phone,"Samsung A54 – 6.4"" AMOLED 120Hz, Exynos 1380, 128GB, 50MP OIS camera, Lime Green.",4.7,1405,1000+,1,TRUE
+id06,Google Pixel 8,phone,"Google Pixel 8 – 6.2"" Actua Display, Tensor G3, 128GB, 50MP camera with AI features.",4.8,925,900-1000,2,TRUE
+id07,Google Pixel 7a,phone,"Google Pixel 7a – 6.1"" OLED 90Hz, Tensor G2, 128GB, 64MP main camera.",4.5,1476,1000+,1,TRUE
+id08,OnePlus 11,phone,"OnePlus 11 – 6.7"" AMOLED 120Hz, Snapdragon 8 Gen 2, 256GB, Hasselblad triple camera.",3.6,587,500-600,1,TRUE
+id09,OnePlus Nord CE3,phone,"OnePlus Nord CE3 – 6.7"" AMOLED, Snapdragon 782G, 128GB, 50MP camera.",4.1,909,900-1000,2,TRUE
+id10,Xiaomi Mi 12,phone,"Xiaomi Mi 12 – 6.28"" AMOLED 120Hz, Snapdragon 8 Gen 1, 128GB, 50MP triple camera.",4.7,801,800-900,0,FALSE
+id11,Xiaomi Redmi Note 13,phone,"Xiaomi Redmi Note 13 – 6.7"" AMOLED, 108MP camera, Mediatek Dimensity chip, 128GB.",4,197,100-200,5,TRUE
+id12,Oppo Reno10,phone,"Oppo Reno10 – 6.7"" AMOLED, 128GB, 64MP portrait camera, sleek curved display.",3.7,99,under-100,1,TRUE
+id13,Vivo V29,phone,"Vivo V29 – 6.78"" AMOLED, 50MP selfie camera, 128GB, color-changing back panel.",4.2,1115,1000+,3,TRUE
+id14,Motorola Edge 40,phone,"Motorola Edge 40 – 6.55"" pOLED, 144Hz, 50MP camera, Dimensity 8020, 256GB.",3.7,245,200-300,1,TRUE
+id15,Sony Xperia 5 V,phone,"Sony Xperia 5 V – Compact 6.1"" OLED, 48MP camera, Snapdragon 8 Gen 2, 128GB.",4.8,1233,1000+,1,TRUE
+id16,Asus ROG Phone 7,phone,"Asus ROG Phone 7 – 6.78"" AMOLED 165Hz, Snapdragon 8 Gen 2, 256GB, RGB gaming design.",4.4,591,500-600,2,TRUE
+id17,Realme GT Neo,phone,"Realme GT Neo – 6.7"" AMOLED, Dimensity chipset, 128GB, 50MP camera.",4.5,60,under-100,5,TRUE
+id18,Honor Magic 5,phone,"Honor Magic 5 – 6.73"" LTPO display, Snapdragon 8 Gen 2, 256GB, 50MP triple camera.",4.5,1293,1000+,5,TRUE
+id19,Nokia G50,phone,"Nokia G50 – 6.82"" display, Snapdragon 480 5G, 128GB, 48MP camera.",4.2,771,700-800,5,TRUE
+id20,ZTE Axon 40,phone,"ZTE Axon 40 – Under-display selfie camera, AMOLED 6.67"", 128GB, 64MP camera.",4.4,1145,1000+,5,TRUE
+id21,Apple Watch Series 9,watch,"Apple Watch Series 9 – Always-on Retina display, S9 chip, GPS, available in Starlight & Midnight.",3.8,329,300-400,3,TRUE
+id22,Apple Watch Ultra 2,watch,"Apple Watch Ultra 2 – Titanium body, 49mm, dual-frequency GPS, 36-hour battery.",4.8,1496,1000+,0,FALSE
+id23,Samsung Galaxy Watch 6,watch,"Samsung Galaxy Watch 6 – Super AMOLED, Wear OS, advanced sleep tracking, 40mm.",4.6,1435,1000+,5,TRUE
+id24,Fitbit Versa 4,watch,"Fitbit Versa 4 – Fitness watch with GPS, heart-rate sensor, 6-day battery.",4.7,612,600-700,2,TRUE
+id25,Fitbit Sense 2,watch,"Fitbit Sense 2 – ECG, stress tracking, AMOLED display, GPS + heart-rate.",4.1,535,500-600,4,TRUE
+id26,Garmin Fenix 7,watch,"Garmin Fenix 7 – Rugged GPS watch, solar charging, fitness + navigation tools.",3.5,837,800-900,3,TRUE
+id27,Garmin Forerunner 955,watch,"Garmin Forerunner 955 – Lightweight GPS watch for runners, AMOLED, long battery life.",4.3,738,700-800,4,TRUE
+id28,Amazfit GTR 4,watch,"Amazfit GTR 4 – AMOLED display, GPS, 14-day battery, stainless steel frame.",3.9,1057,1000+,4,TRUE
+id29,Amazfit Bip 5,watch,"Amazfit Bip 5 – Large display, 10-day battery, lightweight fitness tracker.",4.1,615,600-700,5,TRUE
+id30,Huawei Watch GT 4,watch,"Huawei Watch GT 4 – Premium design, AMOLED, long battery life, GPS.",4.6,1388,1000+,1,TRUE
+id31,Coros Pace 3,watch,"Coros Pace 3 – Lightweight sports watch, dual-band GPS, long-lasting battery.",4.8,1141,1000+,0,FALSE
+id32,Xiaomi Watch S1,watch,"Xiaomi Watch S1 – Sapphire glass, AMOLED, stainless steel chassis.",4.5,183,100-200,1,TRUE
+id33,Boat Wave Pro,watch,Boat Wave Pro – Budget smartwatch with fitness tracking & HD display.,4.7,1343,1000+,3,TRUE
+id34,Noise ColorFit Ultra,watch,"Noise ColorFit Ultra – Large 1.75"" display, SpO2 monitor, multiple color straps.",4.3,859,800-900,1,TRUE
+id35,Fossil Gen 6,watch,"Fossil Gen 6 – Wear OS, Snapdragon 4100+, stainless steel, AMOLED.",4.5,382,300-400,5,TRUE
+id36,Tag Heuer Connected,watch,"Tag Heuer Connected – Luxury Wear OS watch, premium materials, AMOLED.",4.6,861,800-900,1,TRUE
+id37,Suunto 9 Peak,watch,"Suunto 9 Peak – Rugged GPS watch with titanium frame, long battery life.",4.2,930,900-1000,3,TRUE
+id38,Casio G-Shock Move,watch,Casio G-Shock Move – Shock-resistant sports watch with GPS and heart-rate sensor.,4.2,891,800-900,3,TRUE
+id39,TicWatch Pro 5,watch,"TicWatch Pro 5 – Dual-display, Snapdragon W5+, long battery life.",3.7,1185,1000+,4,TRUE
+id40,Lenovo Carme,watch,Lenovo Carme – Affordable fitness watch with color touchscreen.,3.6,453,400-500,5,TRUE
+id41,JBL Charge 5,speaker,"JBL Charge 5 – Portable Bluetooth speaker, waterproof, punchy bass.",4.1,567,500-600,4,TRUE
+id42,JBL Flip 6,speaker,"JBL Flip 6 – Compact waterproof speaker, strong bass, 12-hour battery.",4,1122,1000+,0,FALSE
+id43,Bose SoundLink Flex,speaker,"Bose SoundLink Flex – Clear vocals, IP67 rating, outdoor-friendly.",4.7,1277,1000+,1,TRUE
+id44,Bose SoundLink Micro,speaker,Bose SoundLink Micro – Ultra-compact speaker with surprisingly loud output.,4.9,276,200-300,3,TRUE
+id45,Sony SRS-XB43,speaker,"Sony SRS-XB43 – Extra Bass series, deep sound, LED lights.",4.6,1498,1000+,1,TRUE
+id46,Sony SRS-XE200,speaker,Sony SRS-XE200 – Powerful portable speaker with wide sound dispersion.,4.3,1094,1000+,3,TRUE
+id47,UE Boom 3,speaker,"UE Boom 3 – 360° sound, waterproof, rugged build.",5,1419,1000+,0,FALSE
+id48,UE Wonderboom 3,speaker,"UE Wonderboom 3 – Small speaker, 360° sound, waterproof & floatable.",3.8,712,700-800,1,TRUE
+id49,Marshall Emberton,speaker,"Marshall Emberton – Classic design, signature Marshall sound.",5,751,700-800,2,TRUE
+id50,Marshall Willen,speaker,Marshall Willen – Ultra-portable speaker with retro styling.,4.6,215,200-300,4,TRUE
+id51,Anker Soundcore 3,speaker,"Anker Soundcore 3 – Balanced sound, 24-hour battery life.",3.7,705,700-800,1,TRUE
+id52,Anker Motion+,speaker,Anker Motion+ – High-res Bluetooth speaker with strong bass.,4.3,1298,1000+,2,TRUE
+id53,Tribit StormBox Micro,speaker,"Tribit StormBox Micro – Small, loud, durable mini-speaker.",4.4,59,under-100,4,TRUE
+id54,Harman Kardon Onyx 7,speaker,"Harman Kardon Onyx 7 – Premium design, rich bass, dual tweeters.",4.5,1119,1000+,0,FALSE
+id55,LG XBOOM Go PL7,speaker,"LG XBOOM Go PL7 – Meridian audio tuning, LED lighting.",4.7,536,500-600,1,TRUE
+id56,Bang & Olufsen Beosound A1,speaker,"Bang & Olufsen Beosound A1 – Premium aluminum design, crisp sound.",3.5,835,800-900,2,TRUE
+id57,Denon Home 150,speaker,Denon Home 150 – Smart WiFi speaker with hi-fi sound.,4.6,961,900-1000,4,TRUE
+id58,Sonos Roam,speaker,"Sonos Roam – Portable WiFi + Bluetooth, rich audio, smart assistant support.",4.3,958,900-1000,5,TRUE
+id59,Google Nest Audio,speaker,Google Nest Audio – Smart speaker with powerful bass.,4.6,1118,1000+,0,FALSE
+id60,Amazon Echo 5,speaker,"Amazon Echo 5 – Smart speaker with Alexa, clear audio.",4.6,60,under-100,3,TRUE
+id61,Sony WH-1000XM4,headphones,"Sony WH-1000XM4 – Leading ANC, 30-hour battery, premium comfort.",5,982,900-1000,1,TRUE
+id62,Sony WH-1000XM5,headphones,"Sony WH-1000XM5 – Improved ANC, lightweight frame, 40mm drivers.",4.8,178,100-200,4,TRUE
+id63,Bose 700,headphones,"Bose 700 – Premium ANC, crystal clear calls, sleek design.",4.9,502,500-600,3,TRUE
+id64,Bose QC45,headphones,"Bose QC45 – Comfortable ANC headphones, long battery life.",4.3,467,400-500,1,TRUE
+id65,AirPods Max,headphones,"AirPods Max – Spatial audio, aluminum build, premium sound.",4.4,345,300-400,0,FALSE
+id66,AirPods Pro 2,headphones,"AirPods Pro 2 – Best-in-class ANC, spatial audio, compact design.",4.3,1136,1000+,0,FALSE
+id67,JBL Tune 760NC,headphones,JBL Tune 760NC – Budget ANC headphones with deep bass.,3.7,506,500-600,5,TRUE
+id68,JBL Live 660NC,headphones,"JBL Live 660NC – 40mm drivers, Adaptive Noise Canceling.",4.2,1410,1000+,3,TRUE
+id69,Sennheiser HD 450BT,headphones,"Sennheiser HD 450BT – Balanced sound, strong bass.",3.6,1293,1000+,4,TRUE
+id70,Sennheiser Momentum 4,headphones,"Sennheiser Momentum 4 – Audiophile-grade sound, ANC, 60-hour battery.",4.2,100,100-200,4,TRUE
+id71,Audio-Technica M50xBT,headphones,"Audio-Technica M50xBT – Studio sound wireless, 45mm drivers.",4.9,444,400-500,0,FALSE
+id72,Beats Studio 3,headphones,"Beats Studio 3 – Bass-rich sound, ANC, Apple W1 chip.",3.7,633,600-700,5,TRUE
+id73,Beats Solo Pro,headphones,"Beats Solo Pro – On-ear ANC, portable, vibrant colors.",3.8,428,400-500,4,TRUE
+id74,Anker Soundcore Q45,headphones,"Anker Soundcore Q45 – ANC, long battery, punchy bass.",3.5,383,300-400,5,TRUE
+id75,AKG K371BT,headphones,AKG K371BT – Studio-tuned wireless headphones.,4.4,1015,1000+,2,TRUE
+id76,Skullcandy Crusher Evo,headphones,"Skullcandy Crusher Evo – Adjustable bass slider, big sound.",4,76,under-100,5,TRUE
+id77,Razer BlackShark V2 Pro,headphones,"Razer BlackShark V2 Pro – Gaming wireless headset, low-latency.",4.7,748,700-800,1,TRUE
+id78,Logitech G Pro X,headphones,Logitech G Pro X – Gaming headset with Blue VO!CE mic.,3.5,1417,1000+,5,TRUE
+id79,HyperX Cloud Alpha,headphones,"HyperX Cloud Alpha – Dual-chamber drivers, comfortable design.",4.7,955,900-1000,2,TRUE
+id80,SteelSeries Arctis Nova 7,headphones,SteelSeries Arctis Nova 7 – Multi-platform wireless gaming headset.,5,719,700-800,1,TRUE
+id81,iPad Air 5,tablet,"iPad Air 5 – 10.9"" Liquid Retina, M1 chip, 64GB, sleek colors.",5,93,under-100,5,TRUE
+id82,iPad Pro M2,tablet,"iPad Pro M2 – 11""/12.9"", M2 chip, 128GB, Apple Pencil 2 support.",4.5,1183,1000+,1,TRUE
+id83,iPad Mini 6,tablet,"iPad Mini 6 – Compact 8.3"" display, A15 chip, 64GB storage.",3.5,316,300-400,0,FALSE
+id84,Samsung Galaxy Tab S9,tablet,"Samsung Galaxy Tab S9 – 11"" AMOLED, Snapdragon 8 Gen 1, 128GB.",4.9,201,200-300,3,TRUE
+id85,Samsung Galaxy Tab A9,tablet,"Samsung Galaxy Tab A9 – 10.1"" display, Exynos 850, 64GB storage.",3.7,272,200-300,5,TRUE
+id86,Lenovo Tab P12,tablet,"Lenovo Tab P12 – 12.6"" AMOLED, Snapdragon 870, 128GB.",4.4,288,200-300,0,FALSE
+id87,Lenovo Yoga Tab 13,tablet,"Lenovo Yoga Tab 13 – 13"" display, Android 12, 128GB storage.",4,796,700-800,2,TRUE
+id88,Amazon Fire HD 10,tablet,"Amazon Fire HD 10 – 10.1"" display, 32GB storage, Alexa enabled.",3.9,180,100-200,1,TRUE
+id89,Amazon Fire HD 8,tablet,"Amazon Fire HD 8 – 8"" display, 32GB storage, Alexa enabled.",4.8,282,200-300,0,FALSE
+id90,Microsoft Surface Go 3,tablet,"Microsoft Surface Go 3 – 10.5"" PixelSense, Intel Pentium, 128GB SSD.",3.7,296,200-300,3,TRUE
+id91,Microsoft Surface Pro 9,tablet,"Microsoft Surface Pro 9 – 13"" PixelSense, Intel i5, 256GB SSD.",3.9,1026,1000+,4,TRUE
+id92,Realme Pad 2,tablet,"Realme Pad 2 – 10.4"" display, MediaTek Helio, 64GB.",4.3,507,500-600,5,TRUE
+id93,Xiaomi Pad 6,tablet,"Xiaomi Pad 6 – 11"" AMOLED, Snapdragon 870, 128GB.",3.6,1117,1000+,2,TRUE
+id94,Huawei MatePad Pro,tablet,"Huawei MatePad Pro – 12.6"" OLED, Kirin 9000, 256GB.",4.6,821,800-900,5,TRUE
+id95,Asus ROG Flow Z13,tablet,"Asus ROG Flow Z13 – 13.4"" gaming tablet, Intel i7, 512GB.",4.3,1250,1000+,3,TRUE
+id96,Acer Enduro Urban T1,tablet,"Acer Enduro Urban T1 – Rugged tablet, 10.1"" display, 64GB.",4.3,921,900-1000,3,TRUE
+id97,Nokia T20,tablet,"Nokia T20 – 10.4"" display, Snapdragon 662, 64GB.",3.7,1384,1000+,2,TRUE
+id98,Oppo Pad Air,tablet,"Oppo Pad Air – 10.36"" display, Snapdragon 680, 64GB.",3.5,1141,1000+,3,TRUE
+id99,Vivo Pad 2,tablet,"Vivo Pad 2 – 11"" AMOLED, Snapdragon 870, 128GB.",4,407,400-500,0,FALSE
+id100,TCL Tab 10s,tablet,"TCL Tab 10s – 10.1"" display, 64GB storage, Android 12.",3.9,1105,1000+,2,TRUE
