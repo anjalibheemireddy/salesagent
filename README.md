@@ -1,9 +1,6 @@
 # 🛒 Sales Agent Chatbot
 
-A conversational  sales assistant that helps users search, and purchase products from an inventory. This system uses 
-**Streamlit** for the frontend, 
-**FastAPI** as a backend API layer, 
-and **LangChain with Groq LLM** for natural language understanding and tool integration.
+A conversational  sales assistant that helps users search, and purchase products from an inventory. This system uses **Streamlit** for the frontend, **FastAPI** as a backend API layer, and **LangChain with Groq LLM** for natural language understanding and tool integration.
 
 ---
 
